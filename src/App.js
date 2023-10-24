@@ -12,7 +12,7 @@ const Contact = () => {return (<h1>cwhwuc@gmail.css</h1>)}
 function App() {
 return (
 <Navbar />
-      <Hero />
+      <br></br> saya wnjcnwc wjcwjnc cwnjanc wnjcawcn 202021 cwwncj jnwjncj nwcjncw
       <Routes>
         <Route path='/' Component={menu}/>
         <Route path='/about' Component={about}/>
