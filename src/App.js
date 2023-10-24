@@ -8,11 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link, NavLink } from 'react-router-dom';
 import { BrowserRouter as Router, Route, Link, Routes} from 'react-router-dom';
 
-const Contact = () => {return (<h1>cwhwuc@gmail.css</h1>)}
 function App() {
 return (
 <Navbar />
-      <br></br> saya wnjcnwc wjcwjnc cwnjanc wnjcawcn 202021 cwwncj jnwjncj nwcjncw
+      <br></br>Hero
       <Routes>
         <Route path='/' Component={menu}/>
         <Route path='/about' Component={about}/>
